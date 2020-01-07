@@ -28,7 +28,7 @@
 
 **目前版本为 `v1.0.0` 基于 `vue-cli3` 进行构建，若发现问题，欢迎提[issue](https://github.com/Geek-James/ddBuy/issues)**
 
-作者 **[极客James](https://juejin.im/user/5c4ebc72e51d4511dc7306ce)**
+作者 **[尚轩](https://juejin.im/user/5c4ebc72e51d4511dc7306ce)**
 
 会经常分享一些技术相关的东西，可以加我 [微信:szfter](http://518taole.7-orange.cn/myWechat) 拉你进群和大神一起学习,或者关注我的 [公众号:前端甜甜圈](http://518taole.7-orange.cn/wechat.jpg)免费领学习资料.
 
